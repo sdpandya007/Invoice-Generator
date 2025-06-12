@@ -4,8 +4,6 @@
 
 A simple and elegant Streamlit-based Invoice Generator that lets you create, preview, and download professional invoices in PDF format with Indian currency (₹). No design tools or complex software needed—just fill out your company and client details, add your services, and download the PDF invoice instantly!
 
-![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
-
 ---
 
 ## 🔧 Features
