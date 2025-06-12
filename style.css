@@ -1,0 +1,63 @@
+/* Main container */
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Input fields */
+.stTextInput input, .stTextArea textarea, .stNumberInput input {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px 12px;
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: #4a6baf;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #3a5a9f;
+}
+
+/* Metrics */
+.stMetric {
+    border: 1px solid #eee;
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+/* Expander headers */
+.stExpander {
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Columns */
+.stColumn {
+    padding: 0 1rem;
+}
+
+/* Success message */
+.stAlert.success {
+    background-color: #e6f7e6;
+    border-color: #a3d8a3;
+    color: #2e7d32;
+}
+
+/* Error message */
+.stAlert.error {
+    background-color: #ffebee;
+    border-color: #ffcdd2;
+    color: #c62828;
+}
