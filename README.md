@@ -33,8 +33,8 @@ A simple and elegant Streamlit-based Invoice Generator that lets you create, pre
 1. *Clone this repository*:
 
    ```bash
-   git clone https://github.com/your-username/invoice-generator.git
-   cd invoice-generator
+   git clone https://github.com/sdpandya007/Invoice-Generator.git
+   cd Invoice-Generator
 
 2. Install dependencies:
 
