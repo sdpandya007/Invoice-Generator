@@ -20,31 +20,42 @@ A simple and elegant Streamlit-based Invoice Generator that lets you create, pre
 ## 📸 Live Demo
 
 ▶ *Try it now on Streamlit Cloud*:  
-[https://invoice-generator-india.streamlit.app](https://invoice-generator-india.streamlit.app)
+[https://invoice-generator-india.streamlit.app](https://invoice-generator-pes2psxuxkvqddchofaucn.streamlit.app/)
 
 > Replace the above link with your deployed app URL if different.
 
 ---
-
-## 📝 How to Use
-
-1. *Clone this repository*:
-
+### Steps to Set Up
+1. Clone the repository:
    ```bash
    git clone https://github.com/sdpandya007/Invoice-Generator.git
    cd Invoice-Generator
-
-2. Install dependencies:
-
-pip install streamlit fpdf jinja2
-
-
-3. Run the app:
-
-streamlit run app.py
+   ```
+2. Create virtual environment in folder's cmd:
+   ```bash
+   python -m venv myenv
+   ```
+3. Activate the virtual environment:
+   ```bash
+   myenv\Scripts\activate
+   ``` 
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+6. Open your browser and navigate to `http://localhost:8501` to access the app.
 
 ---
-💸 Currency Support
-
+## 💸 Currency Support
 This version is fully updated for Indian Rupees (₹). All values and symbols have been updated accordingly in both the UI and the PDF.
 
+---
+
+## 📃 License
+MIT License — feel free to use, modify, and share!
+
+---
