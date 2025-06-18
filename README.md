@@ -20,7 +20,7 @@ A simple and elegant Streamlit-based Invoice Generator that lets you create, pre
 ## 📸 Live Demo
 
 ▶ *Try it now on Streamlit Cloud*:  
-[https://invoice-generator-india.streamlit.app](https://invoice-generator-pes2psxuxkvqddchofaucn.streamlit.app/)
+(https://invoice-generator-pes2psxuxkvqddchofaucn.streamlit.app/)
 
 > Replace the above link with your deployed app URL if different.
 
